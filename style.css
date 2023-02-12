@@ -147,7 +147,7 @@ body{
     margin-top: 30px;
 }
 .pay{
-    height: 500px;
+    height: 545px;
     width: 100%;
 }
 .head{
@@ -159,7 +159,7 @@ body{
     color: aliceblue;
 }
 
-.head2:hover{
+.head:hover{
     color: aliceblue;
     font-weight: bold;
 }
@@ -182,4 +182,7 @@ body{
     background: linear-gradient(180deg,red,black);
     color: aliceblue;
     margin: 10px;
+}
+.cash{
+    height:70px;
 }
